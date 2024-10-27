@@ -1,3 +1,7 @@
+# Presentacióm
+
+## Seccion 1
+
 - 👋 Hola, mi nombre es Fco. Javier Garcia y soy estudiante de Primer Curso del Ciclo Formativo Diseño de Aplicaciones WB (DAW) en el instituto de 
 - 👀 Estoy interesado en muchas cosas pero lo que más me gusta es hacer fotos
 - 🌱 I’m currently learning ...
@@ -6,7 +10,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-fcojaviergarciamurciaeduca/fcojaviergarciamurciaeduca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+# He probado unas cosas
+
+## Y probando otras
