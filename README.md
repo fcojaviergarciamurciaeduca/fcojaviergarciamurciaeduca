@@ -56,5 +56,4 @@ Actualmente estoy familiarizado con el uso de ![JIRA](https://badgen.net/badge/i
 ***
 
 ## ACLARACIONES
-Los BADGES los he sacado de la página [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk) y de la página [Shields.io](https://shields.io/) y algunas de la pagina de Gitub del [Profesor](https://github.com/jturpinprof) 
-El fichero ==readme.md== lo he estado modificando con ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+Los BADGES los he sacado de la página [Awesome Badges](https://dev.to/envoy_/150-badges-for-github-pnk) y de la página [Shields.io](https://shields.io/) y algunas de la pagina de Gitub del [Profesor](https://github.com/jturpinprof). El fichero `readme.md` lo he estado modificando con ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
