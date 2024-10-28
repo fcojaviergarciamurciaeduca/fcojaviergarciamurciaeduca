@@ -1,6 +1,6 @@
 # Fco Javier García en [MurciaEduca](murciaeduca.es) 
 
-![CIFP La Conservera](/assets/LaConservera.jpg)
+![CIFP La Conservera](/LaConservera.jpg)
 
 
 
